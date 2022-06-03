@@ -1,0 +1,76 @@
+inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
+  ClientHeight = 1255
+  ClientWidth = 800
+  DesignerMasterStyle = 0
+  inherited GridPanelLayout1: TGridPanelLayout
+    Padding.Left = 10.000000000000000000
+    Padding.Top = 10.000000000000000000
+    Padding.Right = 10.000000000000000000
+    Padding.Bottom = 10.000000000000000000
+    Size.Width = 800.000000000000000000
+    Size.Height = 1255.000000000000000000
+    inherited Door1RadioButton: TRadioButton
+      Position.X = 121.000000000000000000
+      Position.Y = 637.500000000000000000
+      Size.Height = 168.250000000000000000
+    end
+    inherited Door2RadioButton: TRadioButton
+      Position.X = 387.666656494140600000
+      Position.Y = 637.500000000000000000
+      Size.Height = 168.250000000000000000
+    end
+    inherited Door3RadioButton: TRadioButton
+      Position.X = 654.333312988281300000
+      Position.Y = 637.500000000000000000
+      Size.Height = 168.250000000000000000
+    end
+    inherited ResultLabel: TLabel
+      Size.Width = 246.666656494140600000
+      Size.Height = 419.250000000000000000
+    end
+    inherited Door1ImageViewer: TImageViewer
+      Size.Width = 246.666656494140600000
+      Size.Height = 607.500000000000000000
+      Viewport.Width = 50.000000000000000000
+      Viewport.Height = 50.000000000000000000
+    end
+    inherited Door2ImageViewer: TImageViewer
+      Size.Width = 246.666656494140600000
+      Size.Height = 607.500000000000000000
+      Viewport.Width = 217.000000000000000000
+      Viewport.Height = 172.000000000000000000
+    end
+    inherited Door3ImageViewer: TImageViewer
+      Size.Width = 246.666687011718800000
+      Size.Height = 607.500000000000000000
+      Viewport.Width = 218.000000000000000000
+      Viewport.Height = 172.000000000000000000
+    end
+    inherited Panel1: TPanel
+      Size.Width = 246.666656494140600000
+      Size.Height = 419.250000000000000000
+      inherited openDoorsButton: TSpeedButton
+        Size.Width = 246.666656494140600000
+        Size.Height = 396.250000000000000000
+      end
+      inherited WonGamesLabel: TLabel
+        Position.Y = 396.250000000000000000
+        Size.Width = 246.666656494140600000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+    inherited Panel2: TPanel
+      Size.Width = 246.666687011718800000
+      Size.Height = 419.250000000000000000
+      inherited newGameSpeedButton: TSpeedButton
+        Size.Width = 246.666687011718800000
+        Size.Height = 396.250000000000000000
+      end
+      inherited LoosedGamesLabel: TLabel
+        Position.Y = 396.250000000000000000
+        Size.Width = 246.666687011718800000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+  end
+end

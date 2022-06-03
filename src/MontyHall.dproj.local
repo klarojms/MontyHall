@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/13 11:37:23.000.022,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/11 13:20:28.000.890,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/11 14:24:06.000.995,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 15:49:40.000.198,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 12:11:24.000.605,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 17:32:16.000.400,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/24 14:56:34.000.927,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/23 14:07:30.000.821,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/17 15:27:21.000.784,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/09 13:09:57.000.387,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 08:23:56.000.770,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 08:25:42.000.329,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 09:24:43.000.520,=C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 09:26:17.000.158,C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\dev\delphi\fmx\MontyHall\src\MontyHall.MainForm.fmx</Transaction>
+    <Transaction>2022/06/03 09:26:17.000.158,C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\dev\delphi\fmx\MontyHall\src\MontyHall.MainForm.pas</Transaction>
+    <Transaction>2022/06/03 09:26:24.000.442,C:\Users\josep.LIMITRONIC\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\dev\delphi\fmx\MontyHall\src\MontyHall.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="172.19.4.184:39075" Android64="172.19.4.184:42127"/>
+	</ActiveMobileDevice>
+</BorlandProject>
